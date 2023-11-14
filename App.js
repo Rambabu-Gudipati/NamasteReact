@@ -1,4 +1,5 @@
-
+import React from 'react';
+import { ReactDOM } from 'react';
 
 
 const mainContianer = React.createElement("div", {id: "parent"}, 

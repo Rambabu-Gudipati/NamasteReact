@@ -9,3 +9,18 @@ the above the link for core react that was written by facebook developers in tha
 the above script can be used for manipulating the dom opearions
 
 ![Alt text](image.png)
+
+# parcel
+
+dev build
+local server
+HMR - hot module Replacement
+File watching Alogrithm - written in c++
+caching - fast build
+image optimization
+minification 
+bundling
+
+ npx parcel index.html
+ npx parcel build index.html
+
